@@ -64,8 +64,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
 
